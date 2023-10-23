@@ -1,0 +1,79 @@
+{
+    "Monday": {
+        "Bicheon Lab": "PT 2",
+        "Demon Bull Lab": "Vegas + Arthemis",
+        "Serpents Lab": "Sad + Réu + Eaga",
+        "Mine Lab": "Panda + Panu + Snake",
+        "Heavens Lab": "PT 2",
+        "Redmoon Lab": "Kobra + Dedos",
+        "Phantasia Lab": "PT 1",
+        "Rockcut Lab": "FFA, exceto COLORIDO",
+        "Domination Lab": "PT 1 + CORE"
+    },
+    "Tuesday": {
+        "Bicheon Lab": "Panda+Panu+Snake",
+        "Demon Bull Lab": "PT 2",
+        "Serpents Lab": "Vegas + Arthemis",
+        "Mine Lab": "Sad + Réu + Eaga",
+        "Heavens Lab": "PT 2",
+        "Redmoon Lab": "PT 1",
+        "Phantasia Lab": "Kobra + Dedos",
+        "Rockcut Lab": "FFA, exceto COLORIDO",
+        "Domination Lab": "PT 1 + CORE"
+    },
+    "Wednesday": {
+        "Bicheon Lab": "PT 2",
+        "Demon Bull Lab": "Sad + Réu + Eaga",
+        "Serpents Lab": "Kobra + Dedos",
+        "Mine Lab": "Vegas + Arthemis",
+        "Heavens Lab": "PT 1",
+        "Redmoon Lab": "Panda + Panu + Snake",
+        "Phantasia Lab": "PT 2",
+        "Rockcut Lab": "FFA, exceto COLORIDO",
+        "Domination Lab": "PT 1 + CORE"
+    },
+    "Thursday": {
+        "Bicheon Lab": "PT 2",
+        "Demon Bull Lab": "Panda+Panu+Snake",
+        "Serpents Lab": "PT 2",
+        "Mine Lab": "PT 1",
+        "Heavens Lab": "Kobra + Dedos",
+        "Redmoon Lab": "Sad + Réu + Eaga",
+        "Phantasia Lab": "Vegas + Arthemis",
+        "Rockcut Lab": "FFA, exceto COLORIDO",
+        "Domination Lab": "PT 1 + CORE"
+    },
+    "Friday": {
+        "Bicheon Lab": "PT 2",
+        "Demon Bull Lab": "Kobra + Dedos",
+        "Serpents Lab": "PT 1",
+        "Mine Lab": "PT 2",
+        "Heavens Lab": "Panda + Panu + Snake",
+        "Redmoon Lab": "Vegas + Arthemis",
+        "Phantasia Lab": "Sad + Réu + Eaga",
+        "Rockcut Lab": "FFA, exceto COLORIDO",
+        "Domination Lab": "PT 1 + CORE"
+    },
+    "Saturday": {
+        "Bicheon Lab": "PT1",
+        "Demon Bull Lab": "PT 2",
+        "Serpents Lab": "Vegas + Arthemis",
+        "Mine Lab": "Kobra + Dedos",
+        "Heavens Lab": "Sad + Réu + Eaga",
+        "Redmoon Lab": "PT 2",
+        "Phantasia Lab": "Panda + Panu + Snake",
+        "Rockcut Lab": "FFA, exceto COLORIDO",
+        "Domination Lab": "PT 1 + CORE"
+    },
+    "Sunday": {
+        "Bicheon Lab": "Sad + Réu + Eaga",
+        "Demon Bull Lab": "PT 1",
+        "Serpents Lab": "Kobra + Dedos",
+        "Mine Lab": "PT 2",
+        "Heavens Lab": "Vegas + Arthemis",
+        "Redmoon Lab": "Panda + Panu + Snake",
+        "Phantasia Lab": "PT 2",
+        "Rockcut Lab": "FFA, exceto COLORIDO",
+        "Domination Lab": "PT 1 + CORE"
+    }
+}
